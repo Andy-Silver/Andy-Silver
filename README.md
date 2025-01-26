@@ -23,3 +23,10 @@
   <a href = "mailto:zeroum0001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andy-s-medeiros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+<!-- Links da Aula de Iniciação com o GitHub
+GitHub Readme status
+https://github.com/anuraghazra/github-readme-stats
+Site pra colocar os ícones das linguagens de programação no Readme
+https://devicon.dev/
+Site pra colocar os ícones das redes sociais no Readme
+https://shields.io/-->
